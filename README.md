@@ -1,6 +1,6 @@
 ## Motivation
 
-**Current support is web only. In the future, it plans to support a variety of platforms.**
+**Current support is web only. In the future, it plans to support a variety of platforms.**   
 This package allows you to change widgets for each device (PC, tablet, mobile).
 
 ## Getting started
