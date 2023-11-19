@@ -1,5 +1,5 @@
 name: flutter_device_separator
-description: A new Flutter package project.
+description: This package allows you to change widgets for each device (PC, tablet, mobile).
 version: 1.0.0
 homepage: https://github.com/idonuntius/flutter_device_separator
 
